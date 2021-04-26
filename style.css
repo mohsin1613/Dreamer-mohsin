@@ -541,7 +541,7 @@ content:"what i provide"
 }
 
 .skills .skills-content .left p{
-    text-align:justify;
+    text-align:left;
  
 }
 
@@ -850,6 +850,7 @@ footer{
     padding: 20px 25px;
     color:white;
     font-size: 13px;
+    text-align:center;
 }
 
 footer span a{
