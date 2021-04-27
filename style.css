@@ -863,11 +863,37 @@ footer span a:hover{
     text-decoration: underline;
 }
 
+footer  .fab{
+font-size: 30px;
+ }
 
+footer .fa-facebook{
+margin-right: 10px;
+transition: all 0.3s ease;
+}
 
+footer .fa-linkedin{
+margin-right: 10px;
+transition: all 0.3s ease;
+}
 
+footer .fa-github{
+transition: all 0.3s ease;
+}
 
+footer .fa-facebook:hover{
+    color:greenyellow;
+    transform: scale(1.05);
+}
 
+footer .fa-linkedin:hover{
+    color: greenyellow;
+    transform: scale(1.05);
+}
+footer .fa-github:hover{
+    color: greenyellow;
+    transform: scale(1.05);
+}
 
 
 
